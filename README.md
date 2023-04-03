@@ -1,6 +1,6 @@
 
 
-Hi, I'm Blend Emini.I study Computer Science (Bachelor Degree) and i started learning Html,Css and Js when i had practical work (from faculty) to do in local companies and since then i started focusing more and more in Frontend Development.Recently I successfully graduated in Frontend course at Jagaad Academy.
+Hi, I'm Blend Emini,im 21 Years Old and I study Computer Science (Bachelor Degree) and i started learning Html,Css and Js when i had practical work (from faculty) to do in local companies and since then i started focusing more and more in Frontend Development.Recently I successfully graduated in Frontend course at Jagaad Academy.
 For the last 12Months, I had the chance to work on variety of technologies on a daily basis, especially in the last 6 months since i got accepted in Jagaad Academy where i had a great chance to practice a large number of modern technologies and also lately i started learning Node.js,MongoDB and Express.
 My current skills (for now) :
 ⚪ HTML
